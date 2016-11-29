@@ -1,0 +1,19 @@
+---
+title: Sales
+prev_section: support-quality.html
+next_section: unconference.html
+---
+
+h1. How we do sales
+
+Webbsuccé consultants mostly sell themselves and each other. Most of our sales is reactive (clients contacting us) rather than proactive (us contacting clients). Our strong "brand":brand-building.html minimizes the need to "chase" clients.
+
+As a consultant or contractor, timing is a huge challenge. How likely is it that my next client, client B, will come knocking on the door precisely when I'm done with client A? Forget it! Instead, client B will get in touch while I'm still busy with client A. Or I'll finish with client A, and there's no other client knocking on the door. Consultants tend to have too much work or too little work, never just enough.
+
+h2. Do we have a "finders fee" for finding client gigs for each other?
+
+Yes. Since some of our work is to sale and connect with new clients. We honor and respects each others time with a finders fee. The percetage of the fee is updated on the unconference. The current fee is shown in our dashboard.
+
+
+
+

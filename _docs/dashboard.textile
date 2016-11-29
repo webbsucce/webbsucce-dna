@@ -1,0 +1,25 @@
+---
+title: Dashboard
+prev_section: fudge-protocol.html
+next_section: office-team.html
+---
+
+h1. Webbsuccé Dashboard
+
+The dashboard is an internal shared google spreadsheet containing our most vital shared information.
+
+The dashboard contains:
+* *Happiness index* - how happy are we and why?
+* *Happiness history* - how has the happiness index developed over time?
+* *Competency matrix* - who is good at what, and who is interested in what? Will be done next Unconference
+* *Decision log* - which Webbsuccé-wide decisions have been made?
+* *Fee income* - how much money is Webbsuccé earning every month?
+
+h2. Who is responsible for keeping it up to date?
+
+We share the responsibility. When any part starts looking old, someone will usually take action. On the monthly board meeting, board members update the latest information.
+
+Some sheets have implicit owners. For example "fee income" and "revenue per consultant" are usually maintained by someone on the office team or the board, since they have better access to the raw economic figures (and are better at interpreting the numbers).
+
+In general, if any sheet goes unmaintained for a long time, that's a signal that it isn't important and should be removed from the dashboard.
+

@@ -1,0 +1,60 @@
+---
+title: Board of directors
+prev_section: office-team.html
+next_section: our-business.html
+---
+
+h1. Board of directors
+
+Being a Swedish company, we are required to have a board of directors. In most companies, the board is appointed by the owners to represent them so that the management group, headed by the CEO, runs the company according to the directives from the owners and the board.
+
+At Webbsuccé, this works a little differently. First of all, "we invite all Wembers to become owners after 1 year":ownership-model.html, and second, we hold a yearly election of the board members where all Wembers (owners or not) have the right to vote.
+
+h2. What does the board do?
+
+The board have monthly board meetings. The most important responsibilities are to make sure the financial aspect of Webbsuccé is OK and that the Wembers and the "office team":office-team.html are happy. The meetings are open for any Wembers to attend if they wish.
+
+Managing the finances involves keeping an eye on the liquidity to be able to do day-to-day business and to aim for a zero result at the end of the fiscal year. See "Economic Model":economic-model.html for details. 
+
+If there is any Wember with a low score on "Happiness Index":happiness-index.html, a board members takes it upon themselves to call that person and to try and find out what can be done to make the Wember happier.
+
+This is the template for our monthly board meetings.
+
+# Election of meeting secretary, chairman and attestant
+# Schedule next meeting
+# Information round
+# Walk-through of previous protocol and action points
+# Walk-through of economy
+# Walk-through of "Happiness Index":happiness-index.html
+** The board creates action points to call any Wembers that have a low score on Happiness Index.
+# Important calendar events
+# Free topics
+** Topic suggestions on post-it notes
+** Prioritization
+** Work through the topics
+
+
+h2. How do we elect the board?
+
+We elect the board annually at the "Webbsuccé Unconference":unconference.html in the fall. Our board consists of four people
+# Chairman
+# Board member 1
+# Board member 2
+# Board alternate
+
+h3. The current election process
+
+Before the election starts, Wembers who volunteer to run for the board of directors put their name up for consideration on a dedicated wall somewhere.
+
+When it is time for the election, all Wembers gather in a circle. One of the Unconference facilitators manages the election process, where we elect one member at a time, in the order listed above, using closed voting and relative majority.
+
+For each position on the board:
+# Any Weember may nominate any Wember.
+# Nominees who accept the nomination are given the opportunity to offer a short motivation for why to vote for them.
+# Each Wember casts a vote by writing the name of their favourite candidate on a piece of paper, and putting it in a basket in the middle of the circle.
+# When everyone has voted, 2-3 people count the votes in front of the group. The candidate with the largest number of votes is announced the winner without further ado.
+
+We repeat this process until all four positions are filled.
+
+Since we vote for one position at a time, we have the possibility to vote for a strong team. Let's say the chairman is an intuitive agile coach, then, maybe, people will vote for a thoughtful programmer in the next round to balance the team.
+Past practice that has emerged, the board usually consist of one from our office staff, one programmer and one agile coach.

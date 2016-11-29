@@ -1,0 +1,21 @@
+---
+title: "What is Webbsuccé?"
+prev_section: index.html
+next_section: how-webbsucce-works.html
+---
+
+h1. What is Webbsuccé and why?
+
+Our purpose is summarized in following values. We refer to this as "our home" or "our house".
+
+It hangs on the wall in our office, and we bring it to our conferences so it can be easily updated. Here's what it says:
+
+*Webbsuccé is a home for consultants who value:*
+    
+* *Live openess* - Will be open to any thing like, new oportunities, ideas, learn new things. Not be restricted
+* *Be humble* - In our core we care for our self, each other, society and mother earth
+* *Create freedom* - Freedom to execute live openess and to control our own time
+    
+We believe these values lead to personal happiness as well as business success.
+
+Basically, we're trying to find the magic balance between being an independent consultant (full freedom, no support), and being an employee (little freedom, lots of support). 

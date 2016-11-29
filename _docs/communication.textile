@@ -1,0 +1,29 @@
+---
+title: Communication
+prev_section: recruiting.html
+next_section: bun-protocol.html
+---
+
+h1. Communication
+
+Our *main internal communication channels* are:
+* "Webbsuccé Unconference":unconference.html twice per year.
+* Pulse meetings (or mini-conferences). These happen about twice per year, in between the unconferences. Typically a half day or whole day with some kind of theme, like "how we make decisions" or "how we handle conflict" or "how we run courses".
+* Weekly meetings to maintain and develop Webbsuccé's projects and clients
+* "Board meetings":board.html every month.
+* "Slack":http://www.slack.com for chattier stuff
+* Google Calendar for inviting random meetings
+
+Most decisions are made, and most problems solved, in one of the above forums.
+
+Where we *store info*:
+* Google Drive - Our main doc is the "dashboard":dashboard.html
+* GitHub - a github organization account for shared code and, well, the Webbsuccé DNA that you are reading right now.
+
+How we *communicate with the outside world*:
+* Our website - "www.webbsucce.se":http://www.webbsucce.se
+* Monthly telephone calls or face-to-face meeting with customers to see if everthing is fine with the relation to Webbsuccé
+* A mailing list for our customers
+* "Linked In": https://www.linkedin.com/company/webbsuccé
+* "Facebook":https://www.facebook.com/webbsucce
+* ... but the biggest channel of communication is of course the personal and informal channels - Wembers talking to friends and customers. Together we have a huge network!

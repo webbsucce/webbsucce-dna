@@ -1,0 +1,18 @@
+---
+title: Value Sharing
+prev_section: economic-model.html
+next_section: decisions.html
+---
+
+h1. Value Sharing
+
+The core business in Webbsuccé is to create, develop and maintain web projects. Since we do our business in a way most companies don't we also share our money in a way most companies don't. We call this the "Value Sharing Process".
+
+The process works in the following way
+
+# *One of our consultants offer our services for the client. The offer should be based on the foundational services (described in our dashboard) that the team constantly develops during the unconference.
+# *When the offer is turned into business the consultant elects team members for the project. 
+# *The elected team has a inital meeting where roles in the project are assigned. In this moment the team also forecast their valued part in the project. They make an agreement of how the money should be directed.
+# *At the end of the project the team evaluate if the forecasted value was meeting the expectation or not. If they wnat to, they are free to adjust in between the team. If they don't agree they should apply "Conflict handling":conflict-handling.html.
+
+

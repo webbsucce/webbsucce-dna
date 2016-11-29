@@ -1,0 +1,43 @@
+---
+title: Brand building
+prev_section: contracts.html
+next_section: how-to-copy.html
+---
+
+h1. Brand building
+
+As a web agency company, building a strong brand requires two things:
+# Delight your clients
+# Be visible
+
+Both are needed. If we *only* delight our clients, but aren't visible to the world, then the brand won't get strong (except to those few that already know about us). If we are highly visible but _not_ delighting our clients, then the brand won't get strong either.
+
+h2. Social responsiblity
+
+As team we like to share ourselves to others, especially those who makes good for the society. Therefor we recurringly help organization with our profession. At minimum we help one upcoming youth business owners in the concept of "UF, Ung Företagsamhet":http://ungforetagsamhet.se/. We also help at least one organization making good things for people in need.
+
+Right now we support following
+
+# TAP UF - Youth Company creating sell and buy market place to make a more sustainable world
+# FreeZone - Organization helping young people with limited lifes.
+# Helsingborgs IF - Local Football Association with high focus in creating a good society
+# Kamratnätverket - Local organization with high focus in creating a good society
+
+Almost everthing we do here is without debet anything as consultants. We require that everyone onboard our team are willing to do this with a great portion of giving from the heart.
+
+h2. How we make ourselves visible
+
+Visibility happens as a result of two things:
+
+# Provide ways for Wembers to communicate with the world (web site, blog, etc)
+# Make sure nothing gets in their way, so they can shine
+# Constantly networking
+
+Some of the things we do we list here...
+
+* "Open Source Software":https://github.com/webbsucce
+* ... and, of course this "dna.webbsucce.se":http://dna.webbsucce.se site!
+
+h2. It's all about co-branding
+
+As consultants we are very proud to be at Webbsuccé, and very proud of our colleagues, and we list everyone on our "team page":https://www.webbsucce.se/team. You'll find email addresses and phone numbers. Go ahead and call any of us, have a chat, we wait for you!

@@ -1,0 +1,23 @@
+---
+title: Office team
+prev_section: dashboard.html
+next_section: board.html
+---
+
+h1. Office team
+
+We have an office team of 2 persons from our consultants dedicating part of their time. This change every six months. It is of course optional. The board takes the decision.
+
+Things like:
+* Client invoicing and payment followup.
+* Office management (making sure new people have keys, organizing cleaning, ordering books, buy furniture and course materials, etc).
+* Organize the bi-annual "Webbsuccé unconference":unconference.html.
+
+These are just a few examples, not a complete list.
+
+Over time the intention is to hire a part time Office staff as contractor.
+
+
+
+
+

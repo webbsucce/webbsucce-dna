@@ -1,0 +1,15 @@
+---
+title: Our business
+prev_section: board.html
+next_section: support-quality.html
+---
+
+h1. Our business
+
+Webbsuccé's' business areas are:
+
+# *Create, maintain and develop websites built on worlds largest CMS Tool, WordPress.
+# *Marketing campaigns that includes social media and website
+# *Strategy and concept development
+
+

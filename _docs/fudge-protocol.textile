@@ -1,0 +1,11 @@
+---
+title: Cook-the-fudge protocol
+prev_section: bun-protocol.html
+next_section: dashboard.html
+---
+
+h1. Cook-the-fudge Protocol
+
+Cook-the-fudge Protocol is inspired ("Golden EDI":http:goldenedi.com, thanks for the nice way of expressing this) from a great young entrepreneur, Anton Tjellesen who founded and runs "Nordic Fudge AB":http://nordicfudge.se/. When he started his business he had to cook his fudge outside normal working hours just to get it done. Sometimes we have to do this, just to get it done. 
+
+The protocol is simple; if needed for the best of the business and projects use the protocol.

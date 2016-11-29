@@ -1,0 +1,40 @@
+---
+title: Customer support protocol and quality model
+prev_section: our-business.html
+next_section: sales.html
+---
+
+h1. Our most important stuff
+
+Webbsuccé creates sustainable solutions. One of the most important part is therefor to assure the quality of all the development that we do. We also highly prioritze reliable operation for our clients. Sometimes it means that we have to apply the "Cook the fudge - protocol" to achieve that goal.
+
+h2. Support levels and how we consider them
+
+h3. Step 1
+
+# *Level A = Affecting the operation of the business and / or brand severely
+# *Level B = Affecting the operation of the business and / or brand significantly
+# *Level C = Affect the business and / or brand to a small degree
+# *Level D = Does not affect the business and / or brand at all
+
+Definitions of the levels
+# *Level A = At this level it affects the confidence and / or the commercial part of the business so much that every hour without action harms the business credibility and sales / order.
+# *Level B = At this level it affects the confidence and / or the commercial part of the business so much that every day without action damages the credibility of the business and sales / order.
+# *Level C = At this level it affects the confidence and / or the commercial part of the business in a small scale but the operating fault should be remedied ASAP.
+# *Level D = At this level it doesn't affect the confidence and / or the business part at all. The action locates to the next scheduled support / development time.
+
+h3. Step 2. Action after evalutation of support ticket
+When the evaluation is completed, the case is handled in Asana. The case is tagged with Level-tag to be followed in order. At Level A case always contact affected developers immedately.
+
+h2. Quality model
+
+Webbsuccé creates code of highest quality. To be shure that this is lived up to we control every single code string with help from tools such as 
+# *"W3C Validator":https://validator.w3.org/ 
+# *"Google Speed Test":https://developers.google.com/speed/pagespeed/
+# *"Google Mobile Test":https://search.google.com/search-console/mobile-friendly
+# *...and so on.
+
+
+
+
+
